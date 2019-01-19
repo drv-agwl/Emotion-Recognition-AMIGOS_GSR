@@ -1,0 +1,25 @@
+arousal feature:  [97, 84, 16, 198, 82, 11, 17, 174, 12, 95, 88, 98, 7, 133, 62, 200, 186, 193, 71, 176]
+valence feature:  [97, 98, 84, 163, 6, 198, 113, 152, 14, 114, 12, 188, 151, 200, 75, 80, 115, 116, 162, 175]
+
+arousal feature:  [84, 97, 16, 198, 17, 82, 174, 11, 95, 200, 88, 12, 133, 172, 176, 128, 6, 62, 7, 98]
+valence feature:  [97, 98, 84, 6, 198, 163, 152, 14, 75, 200, 115, 113, 151, 188, 114, 12, 7, 104, 162, 43]
+
+
+arousal feature:  ['fstdiff_number_local_min', 'snddiff_number_local_min', 'snddiff_number_local_max', 'fstdiff_proportion_neg_diff', 'DWTkurt1', 'SCVSR_diff_freq_pk', 'fstdiff_number_local_max', 'DWTkurt2', 'ori_mean_fst_diff', 'SC_diff_avg_riseT', 'SCVSR_detrend_dur_pk', 'SCVSR_diff_dur_pk', 'SCVSR_window_freq_pk', 'DWTskew1', 'ori_mean_snd_diff', 'SC_window_avg_riseT', 'SCVSR_detrend_minpk', 'fstdiff_mean_snd_diff', 'SCSR_detrend_avg_riseT', 'ori_Skew']
+
+valence feature:  ['snddiff_number_local_max', 'snddiff_number_local_min', 'fstdiff_number_local_min', 'fstdiff_number_local_max', 'SCVSR_diff_dur_pk', 'DWTskew0', 'SCSR_detrend_avg_riseT', 'SCVSR_window_avg_riseT', 'SCSR_window_avg_riseT', 'SC_detrend_avg_riseT', 'SC_window_min_sigpk', 'SC_window_dur_pk', 'DWTkurt0', 'SCVSR_diff_freq_pk', 'SCVSR_detrend_dur_pk', 'ori_Skew', 'SCSR_diff_freq_pk', 'SCSR_window_freq_pk', 'DWTskew2', 'SCSR_diff_dur_pk']
+
+
+[del number feature]
+arousal feature:  ['SC_diff_max_sigpk', 'p_flow', 'p_fhigh', 'SCSR_diff_max_sigpk', 'SC_diff_min_sigpk', 'SCVSR_window_freq_pk', 'fstdiff_std', 'snddiff_proportion_neg_diff', 'SCVSR_detrend_dur_pk', 'SCSR_detrend_avg_riseT', 'SCVSR_window_min_sigpk', 'SC_window_max_sigpk', 'SCSR_diff_freq_pk', 'DWTkurt2', 'SCVSR_diff_freq_pk', 'SCSR_detrend_dur_pk', 'DWTkurt1', 'SC_detrend_min_sigpk', 'SCSR_window_freq_pk', 'fstdiff_Skew']
+
+valence feature:  ['ori_number_local_min', 'ori_number_local_max', 'p_flow', 'p_fhigh', 'SCVSR_diff_avg_riseT', 'rcmpe_s3', 'SCSR_window_avg_sigpk', 'SCVSR_window_dur_pk', 'SC_detrend_dur_pk', 'SCVSR_window_min_sigpk', 'SCVSR_diff_maxpk', 'SCSR_window_minpk', 'SCVSR_diff_dur_pk', 'DWTkurt0', 'DWTskew0', 'SCSR_window_dur_pk', 'SCVSR_window_avg_riseT']
+
+
+[normal loss]
+arousal feature:  ['fstdiff_number_local_min', 'snddiff_number_local_min', 'snddiff_number_local_max', 'SC_diff_max_sigpk', 'snddiff_proportion_neg_diff', 'SCSR_diff_max_sigpk', 'fstdiff_number_local_max', 'fstdiff_proportion_neg_diff', 'p_flow', 'fstdiff_std', 'DWTskew0', 'SC_diff_min_sigpk', 'SCVSR_window_freq_pk', 'p_fhigh', 'SC_window_max_sigpk', 'SCVSR_diff_avg_riseT', 'snddiff_Skew', 'SCSR_detrend_dur_pk', 'SCSR_diff_freq_pk', 'ori_mean_fst_diff']
+
+valence feature:  ['snddiff_number_local_min', 'fstdiff_number_local_min', 'snddiff_number_local_max', 'fstdiff_number_local_max', 'ori_number_local_min', 'rcmpe_s2', 'SCVSR_diff_freq_pk', 'ori_mean_snd_diff', 'DWTkurt1', 'ori_number_local_max', 'ori_Skew', 'fstdiff_kurt', 'SCSR_diff_maxpk']
+
+
+

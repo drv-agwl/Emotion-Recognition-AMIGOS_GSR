@@ -1,0 +1,6 @@
+arousal
+CVX.p.VHF.s,o.p.IRf,det.t.mxf,det.t.HF.ro,det.t.LF.ro,bd.h.p.mef,bd.h.p.DWT.InEn.M,CDA.p.std,bd.h.p.DWT.ApEn.H,lo.l.t.DWT.ku.L,bd.l.t.rms.11
+21,15,10,8,7,5,4,2,2,2,1
+valence
+bd.h.p.2df.num.argma,det.t.mef,det.t.mif,det.t.LF.ro
+25,25,21,2

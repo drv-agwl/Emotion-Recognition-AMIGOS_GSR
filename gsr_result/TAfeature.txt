@@ -1,0 +1,14 @@
+GSR
+mean_SR, mean_deri, mean_dif_neg, propo_neg, num_local_min, mean_rise                                                6 SR_features (0-5)
+sp 0-2.4                                                                                                            12 sp          (6-17)
+mean_SC, std_SC, mean_der1_SC, mean_der2_SC, mean_SCSR, std_SCSR ,mean_der1_SCSR, mean_der2_SCSR                     8 SC_stats    (18-25)
+ZC_SCSR, ZC_SCVSR, mag_SCSR, mag_SCVSR, mag_all, occ_ratio                                                           6 SC_features (26-31)
+
+arousal feature:  [13, 32, 14, 0, 25, 28, 9, 12, 27, 29, 38, 18, 4, 6, 15, 2, 30, 37, 10]
+valence feature:  [13, 32, 34, 3, 16, 31, 37, 14, 11, 27, 28, 10]
+
+arousal feature:  [13, 27, 14, 0, 31, 11, 25, 12, 29, 34, 28, 32, 1, 37, 38, 36, 15, 33, 9, 10]
+valence feature:  [13, 3, 31, 11, 16, 17, 14, 32, 34, 18, 20, 19, 25, 10, 33, 38]
+
+arousal feature:  [6, 20, 5, 0, 21, 27, 7, 3, 26, 4, 2, 1]
+valence feature:  [6, 20, 21, 27, 4, 9, 7, 26, 3, 28, 31, 2, 10]

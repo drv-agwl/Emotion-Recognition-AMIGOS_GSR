@@ -1,0 +1,3 @@
+arousal feature:  ['det.t.HF.ro', 'det.t.mef', 'det.t.DWT.ApEn.H', 'win.p.1df.ro.negdf', 'lo.l.t.2df.sk', 'o.VLF.ro', 'lo.l.t.me.1df', 'bd.h.p.ro.negdf', 'bd.h.p.mef', 'lo.h.t.1df.num.argma', 'bd.m.t.2df.num.argmi', 'det.t.LF.ro', 'bd.h.p.2df.ro.negdf', 'df.p.DWT.sk.L', 'CDA.p.me', 'lo.l.t.DWT.InEn.L', 'win.t.2df.me.2df', 'CDA.t.1df.me.2df', 'CVX.p.VLF.ro', 'lo.l.meriseT']
+
+valence feature:  ['det.t.DWT.ApEn.H', 'det.t.mef', 'det.t.LF.ro', 'df.p.2df.num.argmi', 'det.t.IRf', 'lo.h.t.1df.num.argma', 'det.t.HF.ro', 'bd.m.p.1df.num.argmi', 'det.t.ku', 'df.p.2df.num.argma', 'lo.h.p.2df.num.argmi']

@@ -1,0 +1,6 @@
+arousal
+CVX.p.2df.num.argma,CVX.p.DWT.InEn.L,CVX.t.mef,CVX.p.VHF.ro,CVX.p.VLF.mi,CVX.p.mef,CVX.p.2df.num.argmi,CVX.p.IRf,CVX.t.mif,CVX.p.1df.ku
+20,16,14,13,4,3,2,1,1,1
+valence
+CVX.p.2df.std,CVX.p.mef,CVX.t.DWT.InEn.L,CVX.p.DWT.ApEn.L,CVX.t.mxf,CVX.p.1df.ku,CVX.p.2df.ro.negdf,CVX.p.DWT.std.L
+35,18,14,2,1,1,1,1
