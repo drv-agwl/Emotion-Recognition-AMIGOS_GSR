@@ -234,7 +234,7 @@ def genTime(seconds, srate):
     Generate a time vector represeting 'seconds' seconds with the given sample rate (srate).
     Each timepoint of the vector represents time in seconds, starting from 0
     """
-    return np.linspace(0, seconds, seconds * srate)
+    return np.linspace(0, int(seconds), int(seconds * srate))
 
 
 def genTimeVector(conductance, srate):
